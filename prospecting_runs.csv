@@ -1,0 +1,13 @@
+ts,date_ist,city,niche,found,verified,queued,skipped,dry_run,zero_queue_streak,notes
+1789727046674,2026-09-18 15:54 IST,Delhi,gym,11,0,0,11,False,0,
+1789719848621,2026-09-18 13:54 IST,Chennai,gym,6,0,0,6,False,0,
+1789712646926,2026-09-18 11:54 IST,Pune,gym,12,0,0,12,False,0,
+1789705448907,2026-09-18 09:54 IST,Bengaluru,gym,13,0,0,13,False,0,
+1789698441252,2026-09-18 07:57 IST,Hyderabad,gym,3,0,0,3,False,0,
+1789691077663,2026-09-18 05:54 IST,Hyderabad,clinic,17,0,0,17,True,0,
+1789684157064,2026-09-18 03:59 IST,Hyderabad,salon,3,0,0,3,True,0,overpass 504
+1789676828165,2026-09-18 01:57 IST,Hyderabad,gym,3,0,0,3,True,0,
+1789669709349,2026-09-17 23:58 IST,Hyderabad,car,3,0,0,3,True,0,
+1789662238824,2026-09-17 21:53 IST,Hyderabad,dentist,9,0,0,9,True,0,
+1789655225927,2026-09-17 19:57 IST,Hyderabad,clinic,17,0,0,17,True,0,
+1789647834553,2026-09-17 17:53 IST,Hyderabad,salon,11,0,0,11,True,0,
