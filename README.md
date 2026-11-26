@@ -20,8 +20,8 @@ invented around them.
 
 ## What this is
 
-RingBack is a missed-call auto-reply service for Indian service businesses
-(salons, gyms, clinics, car detailers). Between 2026-09-17 and 2026-09-21 the
+RingBack is a missed-call follow-up service for Indian service businesses
+(salons, gyms, clinics, car detailers). [The "ringback" name is often confused with the telecom caller tone; this page explains the difference](https://ringback-4sb.pages.dev/blog/what-is-a-ringback). Between 2026-09-17 and 2026-09-21 the
 founder ran an automated prospecting loop and a small message-length experiment:
 
 - `prospecting_runs.csv` — 12 retained runs of an OpenStreetMap-based prospect
