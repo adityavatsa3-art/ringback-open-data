@@ -1,6 +1,6 @@
 # RingBack outreach funnel and message experiment readout (September 2026)
 
-Published by [RingBack](https://ringback-4sb.pages.dev), a missed-call follow-up
+Published by [RingBack](https://ringback.host), a missed-call follow-up
 service for Indian service businesses. A PII-free, aggregate, **negative-result**
 dataset: 8 messages pitched, 0 replies. It is a mirror of the CC0-1.0 dataset at
 [Kaggle](https://www.kaggle.com/datasets/adityavatsa3/ringback-outreach-funnel-2026).
@@ -21,7 +21,7 @@ invented around them.
 ## What this is
 
 RingBack is a missed-call follow-up service for Indian service businesses
-(salons, gyms, clinics, car detailers). [The "ringback" name is often confused with the telecom caller tone; this page explains the difference](https://ringback-4sb.pages.dev/blog/what-is-a-ringback). Between 2026-09-17 and 2026-09-21 the
+(salons, gyms, clinics, car detailers). [The "ringback" name is often confused with the telecom caller tone; this page explains the difference](https://ringback.host/blog/what-is-a-ringback). Between 2026-09-17 and 2026-09-21 the
 founder ran an automated prospecting loop and a small message-length experiment:
 
 - `prospecting_runs.csv` — 12 retained runs of an OpenStreetMap-based prospect
